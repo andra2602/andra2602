@@ -59,7 +59,7 @@ I'm focused on building impactful and efficient software solutions. Here are som
 ## 🔧 Technologies I Work With
 
 **Advanced:**
-- C/C++, C#, ASP.NET Core 8.0
+- C/C++, C#, ASP.NET Core 8.0, Java
 - PL/SQL, Oracle Database
 - Python
 
