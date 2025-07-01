@@ -23,9 +23,12 @@ My journey into tech started with a curiosity to understand how things work. Wha
 Each project is not just a challenge but an opportunity to create something meaningful.
 
 I'm aiming to specialize in **backend development, database management, and web development**, while continuously learning about AI and advanced data systems. My goal is to work on impactful projects that improve user experiences globally.
-
 ## 💡 What I Do
 I'm focused on building impactful and efficient software solutions. Here are some of my key projects:
+
+- **[GYM Subscription Manager](https://github.com/andra2602/Gym-subscription-manager)**
+    - Java, OOP Principles
+    - An interactive, console-based system for managing gym subscriptions and performing various account operations.
 
 - **[Amoria - Micro Social Platform](https://github.com/andra2602/AMORIA)**
     - C#, ASP.NET Core, Entity Framework Core, SQL Server
