@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate Computer Science student at the University of Bucharest, driven by curiosity and creativity.
+I'm a final-year Computer Science student at the University of Bucharest (graduating in June 2026), driven by curiosity and creativity.
 
 My interests go beyond coding; I'm also an avid traveler, culture enthusiast, reader, music lover, and theater appreciator. These passions inspire me to approach projects with an open and diverse perspective.
 
