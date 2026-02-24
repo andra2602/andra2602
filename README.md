@@ -1,107 +1,160 @@
-# Hi there, I'm Andra-Mihaela Andruta! 👋
+# Hi, I'm Andra Mihaela Andruță👋  
 
-*"Turning ideas into impactful software, while exploring the world one culture at a time."*
+Final-year Computer Science student @ University of Bucharest (Graduating June 2026)  
+Aspiring Software Engineer | Full-Stack Builder | Backend & AI Enthusiast  
 
-Welcome to my GitHub profile!
 
-I'm a final-year Computer Science student at the University of Bucharest (graduating in June 2026), driven by curiosity and creativity.
+## About Me
 
-My interests go beyond coding; I'm also an avid traveler, culture enthusiast, reader, music lover, and theater appreciator. These passions inspire me to approach projects with an open and diverse perspective.
+I build systems, not just projects.
 
-## 🌟 About Me
-- 🎓 **Currently Studying:** Computer Science at the University of Bucharest (expected graduation: June 2026)
-- 🌐 **Languages:** Romanian (native), English (B2), French (basic)
-- 🥇 **Awards & Volunteering:** From participating in Erasmus+ cultural exchanges to leading as President of the Student Council, my experiences have nurtured my leadership, public speaking, and organizational skills.
-- 🌍 **Passions:** Traveling, discovering new cultures, reading, music, theater
+I grew up alongside the rapid evolution of technology watching software transform the way people communicate, learn and create. That constant change sparked my curiosity early and shaped my decision to pursue computer science.
 
-## 🎨 What Drives Me
-*"For me, coding is like exploring a new culture—full of discovery, challenges, and creativity. Every project is an adventure where I learn, build, and connect. I'm driven by curiosity, and I bring that same passion to every line of code."*
+Over time, curiosity turned into structure. What started as experimenting with code evolved into designing scalable architectures, integrating databases, building backend logic and exploring AI-powered systems.
 
-## 🔄 My Journey & Goals
-My journey into tech started with a curiosity to understand how things work. What began with experimenting in coding has turned into a passion for building solutions that make life easier.
+I enjoy exploring every layer of computer science: from low-level programming and database design to full-stack development, automation and intelligent systems.
 
-Each project is not just a challenge but an opportunity to create something meaningful.
+Beyond technology, I’m inspired by travel, culture, psychology, fiction, music and theater; perspectives that influence how I think about creativity, product design and user experience.
 
-I'm aiming to specialize in **backend development, database management, and web development**, while continuously learning about AI and advanced data systems. My goal is to work on impactful projects that improve user experiences globally.
-## 💡 What I Do
-I'm focused on building impactful and efficient software solutions. Here are some of my key projects:
+## Current Focus
 
-- **[GYM Subscription Manager](https://github.com/andra2602/Gym-subscription-manager)**
-    - Java, OOP Principles
-    - An interactive, console-based system for managing gym subscriptions and performing various account operations.
+- Backend Engineering  
+- Database Architecture & Optimization  
+- Android Development (Kotlin + Jetpack Compose)  
+- Scalable Web Systems  
+- AI-powered applications  
 
-- **[Amoria - Micro Social Platform](https://github.com/andra2602/AMORIA)**
-    - C#, ASP.NET Core, Entity Framework Core, SQL Server
-    - A scalable social platform that fosters engagement and connections.
 
-- **[Airbnb - DBMS](https://github.com/andra2602/AIRBNB-DBMS)**
-    - Oracle PL/SQL, Stored Procedures, Triggers
-    - An efficient database system managing reservations and user interactions.
 
-- **[Bank Account Management System](https://github.com/andra2602/Bank-account-management-system)**
-    - C/C++, OOP Principles
-    - An interactive, console-based banking system for managing accounts and transactions.
+## Professional Experience
 
-- **[AAShell](https://github.com/andra2602/AAShell-OS-Project)**
-    - C, Process Management, Shell Scripting
-    - A Unix-like interactive shell focused on process management and efficiency.
+###  .NET Intern — NetRom Software (June–July 2025)
+- Developed a Blazor web application using C#, .NET and SQL Server  
+- Implemented backend functionality and database integration  
+- Applied OOP principles in a production-like environment  
+- Contributed to improving usability and system structure  
 
-- **[Event Planner Site](https://github.com/andra2602/Event-planner-site)**
-    - HTML, CSS, JavaScript, Node.js
-    - A platform to streamline event discovery and management.
+### IT Project Management Intern — Code of Talent (April–May 2025)
+- Assisted in product planning and technical documentation  
+- Contributed to backend design and architecture discussions  
+- Collaborated within cross-functional Agile teams  
+- Helped align business logic with technical implementation  
 
-- **[Conway's Game of Life in Assembly](https://github.com/andra2602/Conway-game-of-life)**
-    - x86-32 Assembly, Linux
-    - A low-level simulation of cellular automata behaviors.
 
-## 🔍 My Strengths
+## Core Projects
 
-## 🔧 Technologies I Work With
+### [Bookify – Social Reading Android Application](https://github.com/andra2602/Bookify-Android-App)
+**Tech:** Kotlin, Jetpack Compose, Node.js, Express, Azure SQL, Open Library API, Google Generative AI  
 
-**Advanced:**
-- C/C++, C#, ASP.NET Core 8.0, Java
-- PL/SQL, Oracle Database
-- Python
+A social reading platform enabling users to manage personal libraries, join map-based reading groups and interact through chat features.  
+Built using Clean Architecture & MVVM principles in a 6-member Agile team using feature-branch Git workflows.
 
-**Intermediate:**
-- CSS, HTML, JavaScript, Docker, Git, Linux
 
-**Beginner:**
-- Node.js, R, R Studio, Assembly x86, Prolog, Haskell
+### [AACoffeeChain – Web3 Marketplace](https://github.com/andra2602/AACoffeeChain)
+**Tech:** Solidity, Hardhat, React, Next.js, ethers.js, ERC-20, ERC-721  
 
-## 🌟 Soft Skills
+A decentralized Ethereum-based marketplace where users can purchase products, post on-chain reviews, and earn loyalty rewards through tokens and NFT badges.  
+Implemented modular smart contracts and integrated MetaMask wallet interactions.
 
--**Leadership**: Successfully coordinated educational initiatives and major events, leading teams of up to 20 people.
 
--**Communication**: Adept at translating complex technical concepts into engaging content, and delivering impactful presentations to diverse audiences.
 
--**Project Management**: Proficient in planning, coordinating, and executing multifaceted projects, ensuring optimal resource allocation and timely outcomes.
+### [Deepfake Image Classification](https://github.com/andra2602/Deepfake-Classification)
+**Tech:** Python, PyTorch, scikit-learn  
 
--**Creative Problem-Solving**: Enthusiastic about tackling challenges through innovative thinking and strategic approaches.
+Developed CNN and MLP models for detecting AI-generated faces in a Kaggle competition.  
+Achieved 90% validation accuracy with full experiment documentation and reproducibility.
 
--**Time Management**: Skilled at balancing multiple projects simultaneously, maintaining high standards of quality and efficiency.
 
-## ⚡ Core Competencies
-- ✅ **Problem-Solver**: Built scalable platforms using C#, ASP.NET, and SQL that enhance user engagement and experience.  
-- 🔎 **Detail-Oriented**: Developed an auditing system for database management ensuring high security and data integrity.  
-- 🌍 **Global Perspective**: Gained cross-cultural communication skills through Erasmus+ programs and leadership in diverse student projects.
+### [Amoria – Micro Social Platform](https://github.com/andra2602/AMORIA)
+**Tech:** C#, ASP.NET Core, Entity Framework Core, SQL Server  
 
-## 🔊 Impact Highlights
-- 🤝 Led a team of 10+ students in international cultural exchange programs.
-- 💬 Designed a social media platform that scales for user growth and engagement.
+Built a scalable social platform supporting user profiles, posts, friendships and group messaging.  
+Designed relational database schema and applied Agile collaboration practices.
 
-  
-## 🔗 Let's Connect
-I'm always excited to connect with fellow tech enthusiasts, mentors, and recruiters. Whether you have a cool project in mind or just want to chat about coding, culture, or travel, feel free to reach out!
 
-- 📧 Email: [andra.andruta60@gmail.com](mailto:andra.andruta60@gmail.com)
-- 👨‍💼 LinkedIn: [Andra-Mihaela Andruta](http://www.linkedin.com/in/andra-mihaela-andruță)
-- 🔍 GitHub: [andra2602](https://github.com/andra2602)
+
+##  System & Architecture Projects
+
+### [Fitness Center Management System](https://github.com/andra2602/Gym-subscription-manager)
+**Tech:** Java, JDBC, SQLite  
+
+Console-based management system with role-based logic (members, trainers, managers), subscription tracking, audit logging and layered architecture (DAO + Service).
+
+
+### [Airbnb DBMS](https://github.com/andra2602/AIRBNB-DBMS)
+**Tech:** Oracle PL/SQL  
+
+Designed a relational database system with stored procedures, triggers and optimized queries for reservation management.
+
+
+### [AAShell – Unix-like Shell](https://github.com/andra2602/AAShell-OS-Project)
+**Tech:** C, Linux  
+
+Implemented process management and command execution in a custom interactive shell environment.
+
+
+
+### [Conway’s Game of Life (Assembly)](https://github.com/andra2602/Conway-game-of-life)
+**Tech:** x86 Assembly, Linux  
+
+Low-level simulation of cellular automata behavior implemented entirely in Assembly.
+
+
+## Tech Stack
+
+### Advanced
+- Kotlin  
+- Java  
+- C/C++  
+- C#  
+- SQL / PL-SQL  
+- Python  
+
+### Intermediate
+- ASP.NET Core  
+- .NET / Blazor  
+- Node.js / Express  
+- React  
+- Docker  
+- Git & GitHub workflows  
+- Linux  
+- HTML, CSS, JavaScript  
+
+### Exploring & Expanding
+- AI integration in production systems  
+- Blockchain development  
+- Distributed architectures  
+- Advanced data systems  
+
+
+
+## Leadership & Impact
+
+- President of the Student Council  
+- Erasmus+ participant  
+- Coordinated cultural & educational initiatives  
+- Led teams and managed multi-layered projects  
+- Strong experience in public speaking and cross-cultural collaboration  
+
+
+## Strengths
+
+- System Thinking & Architecture Awareness  
+- Strong Database Foundations  
+- Clean Code & Structured Design  
+- Full-Stack Perspective  
+- Fast learner with high ownership  
+- Ability to bridge technical and business logic  
+
+
+
+## Let's Connect
+
+- [Email](mailto:andra.andruta60@gmail.com)  
+- [LinkedIn Profile](https://www.linkedin.com/in/andra-mihaela-andruta/)  
+- [GitHub Profile](https://github.com/andra2602) 
+
 
 ---
 
-*"Code is like art—it should be both functional and beautiful."*
-
-
-
-
+*"Build things that matter. Stay curious. Keep evolving."*
