@@ -1,7 +1,8 @@
-# Hi, I'm Andra Mihaela Andruță👋  
+# Hi, I'm Andra Mihaela Andruță👋
 
-Final-year Computer Science student @ University of Bucharest (Graduating June 2026)  
-Aspiring Software Engineer | Full-Stack Builder | Backend & AI Enthusiast  
+DevOps Engineer @ Alchemy | MSc Software Engineering Student @ University of Bucharest  
+BSc in Computer Science, University of Bucharest (Graduated June 2026)  
+Backend & AI Enthusiast | Full-Stack Builder
 
 
 ## About Me
@@ -16,17 +17,11 @@ I enjoy exploring every layer of computer science: from low-level programming an
 
 Beyond technology, I’m inspired by travel, culture, psychology, fiction, music and theater; perspectives that influence how I think about creativity, product design and user experience.
 
-## Current Focus
-
-- Backend Engineering  
-- Database Architecture & Optimization  
-- Android Development (Kotlin + Jetpack Compose)  
-- Scalable Web Systems  
-- AI-powered applications  
-
-
-
 ## Professional Experience
+
+### Alchemy
+**DevOps Engineer, NodeOps team** (October 2026 – Present)  
+**Intern** (July – September 2026)
 
 ###  .NET Intern — NetRom Software (June–July 2025)
 - Developed a Blazor web application using C#, .NET and SQL Server  
